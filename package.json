@@ -1,0 +1,32 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Using Express.js, build a server with a front-end display to manage daily notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmcanall/Note-Taker.git"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "js",
+    "javascript",
+    "npm",
+    "node"
+  ],
+  "author": "Nathan McAnally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmcanall/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/nmcanall/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jest": "^26.2.2"
+  }
+}
